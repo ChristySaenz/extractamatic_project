@@ -8,7 +8,7 @@ This group will be extracting data and transforming it for utilization in a stud
   - https://www.kaggle.com/datasets/jameslko/gun-violence-data
 
 - Data Source 2
-  - Database connecting divorce rates and the number of Wafflehouse's by state (includes divorce and marriage rates as well as information about number of slaves per region in the 1860s.)
+  - Database connecting divorce rates and the number of Wafflehouse's by state (includes divorce and marriage rates as well as information about number of slaves per region in the 1860s.)**excludes Nevada**
   - https://www.kaggle.com/datasets/tylerbonnell/waffles
 
   - initial findings in data sources
