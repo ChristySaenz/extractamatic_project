@@ -33,7 +33,7 @@ The second dataset, "Gun Violence", initially covered the years 2013 to March 20
   
  ![image](https://user-images.githubusercontent.com/105026975/190540218-8fa8c486-e5d1-47c1-8f72-13bb00492e92.png)
  
- - In response to the initial discussion of the client's expressed needs, the Extractomatic team proposed to provide an accessible
+ - In response to the initial discussion of the client's expressed needs, the Extractamatic team proposed to provide an accessible
 dataset developed to draw interest from the public through the use of unusual (at first glance) relationships. The team was able to
 identify a way to connect the number of gun violence incidents per state with divorce rates and the number of Wafflehouses.
 This relationship will be just unique enough to bring attention to the deeper issues the client wished to address, such as systemic
