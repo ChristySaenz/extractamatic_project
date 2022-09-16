@@ -33,8 +33,13 @@ The second dataset, "Gun Violence", initially covered the years 2013 to March 20
   
  ![image](https://user-images.githubusercontent.com/105026975/190540218-8fa8c486-e5d1-47c1-8f72-13bb00492e92.png)
  
-  - Files were upload to Jupyter Notebooks to perform data cleaning. The relevant columns from each set were determined based on the client's requested information. They were then extracted to create new dataframes. Then columns were renamed for clarity and to prepare for a smooth transition to a relational dataset. We also filtered out any data not from 2017 by utilizing.....to separate the year data from the month and day data and then dropped the extra columns once this was complete. Then the files were exported to csv files to be uploaded to PGadmin for final analysis.
+ - In response to the initial discussion of the client's expressed needs, the Extractomatic team proposed to provide an accessible
+dataset developed to draw interest from the public through the use of unusual (at first glance) relationships. The team was able to
+identify a way to connect the number of gun violence incidents per state with divorce rates and the number of Wafflehouses.
+This relationship will be just unique enough to bring attention to the deeper issues the client wished to address, such as systemic
+poverty and it's correlation with quality of life with in the United States.
+Note: This dataset does exclude Nevada due to the limitations of the relevant and accessible datasets.
 
 - Final thoughts:
-  - We were able to join the tables successfully however realized upon doing so that the data in 'clean_gunviol' should have been summed by State to provide effective date. Unfortunately, we ran out of time to complete this task. 
+  - We were able to join the tables on state successfully however realized upon doing so that the data in 'clean_gunviol' should have been summed by State to provide effective date. Unfortunately, we ran out of time to complete this task. 
 
