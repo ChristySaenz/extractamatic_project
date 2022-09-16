@@ -21,14 +21,14 @@ The second dataset, "Gun Violence", initially covered the years 2013 to March 20
   - Files were upload to Jupyter Notebooks to perform data cleaning. The relevant columns from each set were determined based on the client's requested information. They were then extracted to create new dataframes. Then columns were renamed for clarity and to prepare for a smooth transition to a relational dataset. We also filtered out any data not from 2017 and dropped all Nevada data or data without a state in the “Gun Violence” dataset. Then the files were exported to csv files to be uploaded to PGadmin for final analysis.
 - Load
   - The datasets of ‘clean_waffles’ and ‘clean_gunviol’ were created to compare by state the number of wafflehouses and the divorce percentage with gun violence incidents by state in the year 2017.
-state- refers to the name of the state
-Loc- is the abb. for the state
-% Married- the percentage of married adults in each state
-% Divorced- the percentage of divorced adults in each state
-WaffleHouses- number of Wafflehouse locations in the state
-n_killed- Number of people killed in the incident
-n_injured- Number of people injured 
-date- date in year-month-day format
+  - state- refers to the name of the state
+  - Loc- is the abb. for the state
+  - % Married- the percentage of married adults in each state
+  - % Divorced- the percentage of divorced adults in each state
+  - WaffleHouses- number of Wafflehouse locations in the state
+  - n_killed- Number of people killed in the incident
+  - n_injured- Number of people injured 
+  - date- date in year-month-day format
   - ERD of relational database -insert img here-
   - Files were upload to Jupyter Notebooks to perform data cleaning. The relevant columns from each set were determined based on the client's requested information. They were then extracted to create new dataframes. Then columns were renamed for clarity and to prepare for a smooth transition to a relational dataset. We also filtered out any data not from 2017 by utilizing.....to separate the year data from the month and day data and then dropped the extra columns once this was complete. Then the files were exported to csv files to be uploaded to PGadmin for final analysis.
 
